@@ -1,0 +1,38 @@
+h1 {
+	font-family: Helvetica;
+	text-align: center;
+}
+
+img {
+	width: 100px;
+}
+
+div div {
+	margin: auto;
+	width: 33%;
+	height: 250px;
+}
+
+#big_div {
+	border: 5px solid black;
+	display: flex;
+	justify-content: space-around;
+	flex-direction: column;
+}
+
+#sub_div1 {
+	position: relative;
+	right: 31%;
+}
+
+#sub_div2 {
+	position: relative;
+	bottom: 145px;
+	left: 5%;
+}
+
+#sub_div3 {
+	position: relative;
+	bottom: 285px;
+	left: 40%;
+}
